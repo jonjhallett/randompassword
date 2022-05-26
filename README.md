@@ -10,3 +10,5 @@ characters.
 $ randompassword 22
 7Vy4GVeXmw9DNr63C9j23V
 ```
+
+Strictly speaking, this script has a non-zero probability of never terminating, but that is _very_ unlikely :-)
